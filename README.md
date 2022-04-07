@@ -16,6 +16,9 @@ There are 4 characters: Black Widow, Gamora, Captain Marvel and Scarlet Witch . 
 You are going to answer 4 question and this game will try to identify which one you choose =)
 
 
+Disclaimer: For grading purpose, I need to clarify something haha Scarlet Witch can't actually fly =) I research about it. She can LEVITATE =D
+
+
 Built using:
 --------------------------------------------------------------------------------
 [git](https://git-scm.com/) for source control and
